@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "123782776535",
+    "project_id": "sdcapp-898e8",
+    "storage_bucket": "sdcapp-898e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123782776535:android:d00131b4a326e793e21292",
+        "android_client_info": {
+          "package_name": "com.example.sdc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123782776535-brr4r7dna6nekj533a27cl528hni01o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0q-tIRPh8H3awTqJMhGb_h6at_N-VTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123782776535-brr4r7dna6nekj533a27cl528hni01o6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123782776535-9m81j2d5n3n22st6ivdltut72siddgkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sdc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
